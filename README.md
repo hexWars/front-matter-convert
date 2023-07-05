@@ -15,10 +15,10 @@ node convert.js
 会默认递归搜索`./`下所有文件夹，找出所有的md文件，自动转换front matter
 
 修改情况：
-保留：title,draft,tags
-修改：date修改成pubDatetime
-删除：Image-auto-upload,ShowToc,categories
-增加：author,postSlug,featured,ogImage,description
+- 保留：title,draft,tags
+- 修改：date修改成pubDatetime
+- 删除：Image-auto-upload,ShowToc,categories
+- 增加：author,postSlug,featured,ogImage,description
 
 注意自行修改author等信息
 
